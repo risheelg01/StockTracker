@@ -1,0 +1,6 @@
+.root {
+    background-color: #009b72;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Kanit';
+}
