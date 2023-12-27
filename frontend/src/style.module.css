@@ -1,0 +1,9 @@
+body {
+    background-color: #009b72;
+}
+
+.root {
+    justify-content: center;
+    display: flex;
+    margin-top: 200px;
+}
